@@ -1,0 +1,5 @@
+name: BoatLeashPull
+version: 1.0.0
+main: dev.dean.boatleash.BoatLeashPull
+api-version: '1.21'
+description: Leashed boats get pulled by the leash holder even while a player is riding.
